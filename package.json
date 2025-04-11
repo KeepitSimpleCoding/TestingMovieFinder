@@ -1,7 +1,7 @@
 {
   "name": "movie-react-app",
   "version": "0.1.0",
-  "homepage": https://keepitsimplecoding.github.io/TestingMovieFinder/
+  "homepage": https://keepitsimplecoding.github.io/TestingMovieFinder/,
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
